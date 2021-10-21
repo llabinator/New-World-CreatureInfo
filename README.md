@@ -28,6 +28,7 @@ Join the [discord](https://discord.gg/GdhEdD9umc) if you have any questions, wan
 **TURN ON "Bigger' TEXT IN Settings > Accessibility > Text Size for better results!**
 
 **NOTE: Not all creatures are put into the database; therefore, some creatures will not work when hovering over them. Also, a lot of creatures will just have shortened names. For example, 'Peppered Lynx' does not exist in the databse, but it will still find 'Lynx' which should give similar information.**
+**There is also a 5 second break after it has found a creature, in order to reduce usage... This is subject to change.**
 
 - *If errors persist, please contact me at my [discord](https://discord.gg/HxsTVM3wB2)*
 
