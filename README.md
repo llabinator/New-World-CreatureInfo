@@ -5,7 +5,7 @@ Similar to the minimap application, this program gets information from the cente
 [Latest Download Page](https://github.com/llabinator/New-World-CreatureInfo/releases/latest)
 
 # The Program
-An creature info tool for New World. The application takes screenshots of your Primary Monitor Screen using Optical Character Recognition (OCR) to detect creatures you are looking at. The application DOES NOT interact with the game itself. It DOES NOT inject itself into memory. It DOES NOT read game memory. It DOES NOT contact with the game whatsoever. The program simply takes the information being displayed on your screen. It is no different than recording/streaming your screen, therefore, it applys to the terms and service (CONFIRMED BY AGS THEMSELVES).
+A creature info tool for New World. The application takes screenshots of your Primary Monitor Screen using Optical Character Recognition (OCR) to detect creatures you are looking at. It will then display the creatures health, and xp gained when killed (variable depending on your own level), depending on their level. The application DOES NOT interact with the game itself. It DOES NOT inject itself into memory. It DOES NOT read game memory. It DOES NOT contact with the game whatsoever. The program simply takes the information being displayed on your screen. It is no different than recording/streaming your screen, therefore, it applys to the terms and service (CONFIRMED BY AGS THEMSELVES).
 
 # Must Haves
 You must have Java installed on your PC. Java version 1.8+. You must also have Firefox installed on your PC. This is because I am using Seleniums firefox drivers.
