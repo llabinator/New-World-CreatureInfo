@@ -26,6 +26,7 @@ Join the [discord](https://discord.gg/GdhEdD9umc) if you have any questions, wan
 - You should be able to look at a creature/mob for a second or two, and it update in the top left with information for all creatures/mobs of that type stored in the database. Sometimes it takes longer depending on the surroundings (Gray surroundings make it hard for the OCR to see the nametags).
 
 **TURN ON "Bigger' TEXT IN Settings > Accessibility > Text Size for better results!**
+**Program might freeze and need restarting... Potential Memory Leak - Working on a fix**
 
 **NOTE: Not all creatures are put into the database; therefore, some creatures will not work when hovering over them. Also, a lot of creatures will just have shortened names. For example, 'Peppered Lynx' does not exist in the databse, but it will still find 'Lynx' which should give similar information.**
 **There is also a 5 second break after it has found a creature, in order to reduce usage... This is subject to change.**
