@@ -25,9 +25,11 @@ Join the [discord](https://discord.gg/GdhEdD9umc) if you have any questions, wan
 
 - You should be able to look at a creature/mob for a second or two, and it update in the top left with information for all creatures/mobs of that type stored in the database. Sometimes it takes longer depending on the surroundings (Gray surroundings make it hard for the OCR to see the nametags).
 
+**TURN ON "Bigger' TEXT IN Settings > Accessibility > Text Size for better results!**
+
 **NOTE: Not all creatures are put into the database; therefore, some creatures will not work when hovering over them. Also, a lot of creatures will just have shortened names. For example, 'Peppered Lynx' does not exist in the databse, but it will still find 'Lynx' which should give similar information.**
 
-*- If errors persist, please contact me at my [discord](https://discord.gg/HxsTVM3wB2)
+- *If errors persist, please contact me at my [discord](https://discord.gg/HxsTVM3wB2)*
 
 **NOTE THIS WARNING IS NORMAL (console mode only): Warning: Invalid resolution 0 dpi. Using 70 instead. I can't seem to find a way around it not yelling this constantly.**
 
